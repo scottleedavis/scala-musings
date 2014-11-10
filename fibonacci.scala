@@ -1,6 +1,5 @@
 
-//This is a fibonacci example.
-// takes in 'n', which will return the 'nth' value in a fibonacci sequence
+//This is a fibonacci example, using local tail-recursive function
 
 def fib(n: Int): Int = {
 
