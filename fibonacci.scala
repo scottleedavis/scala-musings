@@ -1,6 +1,4 @@
 
-//This is a fibonacci example, using local tail-recursive function
-
 def fib(n: Int): Int = {
 
   @annotation.tailrec
